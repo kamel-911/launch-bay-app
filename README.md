@@ -47,7 +47,7 @@ To remove it, delete the folder. Your saved data is in `%APPDATA%\LaunchBay`.
 
 Launch Bay is a new app from a small developer, so it's fair to check first.
 
-- **File fingerprint (SHA-256) of `LaunchBay-10.3-Windows.zip`:** `EDB636E25BD13494C0A7BAB739F0284436A6EB0A6705D0EC3B24FF59546F64A9`. You can search this at [VirusTotal](https://www.virustotal.com) to see scan results.
+- **File fingerprint (SHA-256) of `LaunchBay-10.3-Windows.zip`:** `EDB636E25BD13494C0A7BAB739F0284436A6EB0A6705D0EC3B24FF59546F64A9`. To scan it yourself, upload the zip at [VirusTotal](https://www.virustotal.com).
 - **Passwords:** you log in on Roblox's own page. Launch Bay doesn't read, save or send your password or login cookie.
 - **Network:** it only talks to Roblox's websites and your own PC. It has no analytics or tracking.
 - **Windows warning:** the app isn't code signed yet, so Windows may show "Windows protected your PC". Only continue if you got it from this page. Click **More info**, then **Run anyway**.
