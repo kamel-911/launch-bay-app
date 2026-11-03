@@ -11,7 +11,7 @@
 >
 > Every game still opens through Roblox's own launcher and the official Roblox player, which you need to have installed. Launch Bay does not include, patch or modify Roblox's files.
 >
-> It is more than a shortcut in one way: it has optional extras (an auto clicker, auto walk, anti-AFK and running several Roblox windows at once) that interact with Roblox while it runs. All of them are off until you turn them on. [Read the risks](#use-at-your-own-risk) first.
+> It is more than a shortcut in one way: it has optional extras (an auto clicker, auto walk, anti-AFK and running several Roblox windows at once) that interact with Roblox while it runs. All of them are off until you turn them on.
 >
 > **Launch Bay is an independent project. It is not affiliated with or endorsed by Roblox Corporation.** Roblox is a trademark of Roblox Corporation.
 
@@ -55,12 +55,6 @@ Launch Bay is a new app from a small developer, so it's fair to check first.
 - **Source code:** the code isn't public, so you're trusting these notes and the scan results.
 
 **How account features work:** Launch Bay opens that account's browser profile, usually hidden, with a debugging port that only this PC can reach. It runs small scripts on roblox.com, so requests go out as that logged-in account. Other programs on your PC could also reach that port while the browser is open. To link an account, it finds your Roblox user ID in that profile's files, and it edits the profile's settings once so roblox.com can open Roblox without asking each time. These profiles stay logged in, so keep `%APPDATA%\LaunchBay` private and never share it.
-
-## Use at your own risk
-
-- Some Roblox games don't allow auto clickers or AFK tools and can ban you for using them.
-- These features, and multi-instance in particular, may go against Roblox's Terms of Use. Multi-instance works by closing the "only one Roblox" lock inside running Roblox processes. Read the rules before you turn them on.
-- You are responsible for your own accounts. Launch Bay comes with no warranty.
 
 ## Problems or ideas
 
